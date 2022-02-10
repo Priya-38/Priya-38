@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="cover" />
 </div>
-<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=monospace&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+This+is+Priya!></p>
+<p align="center"><img src=https://readme-typing-svg.herokuapp.com?font=monospace&color=%23259076&size=26&lines=Hello+%F0%9F%91%8B%2C+This+is+Priya.></p>
 
 <p align="center">
   <a href="mailto:pchaurasiya925@gmail.com" target="blank">
