@@ -18,14 +18,14 @@
 <!-- <img align='left' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
  -->
 
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Aspiring Software Developer/Data Scientist</h3>
 <h4 align="center">Pronouns: She/Her</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankit404butfound&label=Profile%20views&color=0e75b6&style=flat" alt="priya-38" /> </p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktarun1681" alt="ktarun1681" /></a> </p> -->
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning  **Data Structures and Algorithms** & **Deep Learning**
 
 - 💬 Ask me about **Python,Data Structures and Algorithms, Machine Learning, Data Analysis, Data Visualisation, SQL, Statistics, Algebra**
 
