@@ -33,6 +33,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goal: Contribute more to Open Source projects.
 - 💬  I frequently write on medium about AI, ML, DL. Read [My Blogs.](https://medium.com/@priya38)
+- :page_facing_up: To know more about me, checkout my Portfolio website [Here]([(https://priya-38.github.io/#projects)])
 
 
 <h3 align="left">Languages and Tools:</h3>
